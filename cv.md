@@ -48,7 +48,7 @@ Try to learn something new every day.
 **Languages**
 
 * English: B2
-* Polish: B1
+* Polish: B2
 * Belarusian: Native
 * Russian: Fluent
 * Spanish: A1
