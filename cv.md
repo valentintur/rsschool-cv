@@ -16,16 +16,24 @@ From the first day of training I created [Instagram account](https://www.instagr
 
 ---
 **Skills**
- * html5
- * css3 (sass)
- * javasctipt
- * mysql
- * github
-  
+ * Html5
+ * CSS3 (sass)
+ * Javasctipt
+ * ReactJS
+ * Wordpress \ Woocommerce (with ACF)
+ * Bootstrap
+ * Gulp
+ * Webpack
+ * Roller
+ * Basic PHP
+ * Basic Node.js
+ * MySQL
+ * GIT
+
 ---
 **Code examples**
 
-> `const goal = 'become a Senior Full Stack Javascript'`
+`const goal = 'become a Senior Full Stack Javascript'`
 
 ---
 
