@@ -49,7 +49,7 @@ Last 10 years I work in one small web-studio, where we create sites for ours cos
 
 **Education**
 
-Online courses: Coursera, Hexlet, and of course **learn.javascript.ru**, htmlacademy, etc.  
+Online courses: Rolling Scopes, CS50, Coursera, Hexlet, and of course **learn.javascript.ru**, htmlacademy, etc.  
 Try to learn something new every day.
 
 ---
