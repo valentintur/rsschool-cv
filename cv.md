@@ -40,7 +40,7 @@ From the first day of training I created [Instagram account](https://www.instagr
 **Experience**
 
 Last 10 years I work in one small web-studio, where we create sites for ours costumers. Here I walked from developer to project manager.
-* 2020 - 2021 Front-end developer in PageArt (Warszawa)
+* 2020 - 2022 Front-end developer in PageArt (Warszawa)
 * 2015 - 2020 Project manager in Qwertland
 * 2010 - 2015 Web-developer in Qwertland
 * 2007 - 2009 SEO specialist in PixelPlus
