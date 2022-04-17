@@ -1,1 +1,0 @@
-(cv.md)[https://valentintur.github.io/rsschool-cv/cv]
