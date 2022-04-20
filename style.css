@@ -64,6 +64,7 @@ section {
 
 code {
     padding: 10px;
+    line-height: 1.5rem;
     border-radius: 5px;
     background-color: #eeeeeeb8;
 }
@@ -80,3 +81,28 @@ code {
     width: 100px;
 }
 
+@media (max-width: 575.98px) {
+    ul {
+        padding-left: 0;
+    }
+
+    .header {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    code {
+        display: block;
+    }
+
+    .footer {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .footer a,
+    .footer span {
+        padding-bottom: 15px;
+    }
+
+}
